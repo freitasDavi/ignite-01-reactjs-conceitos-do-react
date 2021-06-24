@@ -15,7 +15,7 @@
 
    Clonar os repositórios
    
-    $ git clone https://github.com/freitasDavi/react_quiz.git
+    $ git clone https://github.com/freitasDavi/ignite-01-reactjs-conceitos-do-react.git
    
     # Instalar o node/yarn 
 
